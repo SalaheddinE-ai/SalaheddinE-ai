@@ -26,7 +26,7 @@ I enjoy designing and building intelligent systems that solve real-world problem
   An AI-inspired digital portrait built with interactive particle animations. Move your cursor or touch the screen to interact with the particles.
 </p>
 
-### 🚀 Areas of Interest
+### Areas of Interest
 
 - **Generative AI:** LLMs, Fine-tuning, LoRA/QLoRA
 - **Retrieval-Augmented Generation:** Advanced RAG, Hybrid Search, Reranking
@@ -49,7 +49,7 @@ I enjoy designing and building intelligent systems that solve real-world problem
 
 **Data & Tools:** Pandas, NumPy, OpenCV, Streamlit
 
-### 🔬 Featured Projects
+### Featured Projects
 
 - **Industrial Knowledge Copilot:** LLM-powered industrial assistant using RAG, hybrid retrieval, reranking, knowledge graphs and agentic workflows.
 - **FlightOps:** End-to-end MLOps pipeline for industrial predictive maintenance.
@@ -57,7 +57,7 @@ I enjoy designing and building intelligent systems that solve real-world problem
 - **Classroom Noise AI:** Audio intelligence system for voice activity detection and speaker identification.
 - **Port Security Computer Vision:** Real-time object detection for industrial access-control applications.
 
-### 🎯 Current Goals
+### Current Goals
 
 - Building production-ready AI systems.
 - Exploring advanced RAG and Agentic AI architectures.
