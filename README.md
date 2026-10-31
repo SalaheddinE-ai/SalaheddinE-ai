@@ -1,4 +1,4 @@
-# Hi, I'm Salaheddine Es-Aissi 👋
+# Hi, I'm Salaheddine 👋
 
 ### AI Engineer | Machine Learning | Generative AI | Agentic AI
 
