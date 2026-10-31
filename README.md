@@ -6,6 +6,18 @@
 
 I enjoy designing and building intelligent systems that solve real-world problems, from machine learning pipelines to production-oriented AI applications.
 
+### ✨ Interactive Particle Identity
+
+<p align="center">
+  <a href="https://salaheddine-ai.github.io/particle-identity/">
+    <strong>🚀 Explore My Interactive Particle Portrait</strong>
+  </a>
+</p>
+
+<p align="center">
+  An AI-inspired digital portrait built with interactive particle animations. Move your cursor or touch the screen to interact with the particles.
+</p>
+
 ### 🚀 Areas of Interest
 
 - **Generative AI:** LLMs, Fine-tuning, LoRA/QLoRA
@@ -46,9 +58,9 @@ I enjoy designing and building intelligent systems that solve real-world problem
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [Salaheddine Es-Aissi Elismaili](https://www.linkedin.com/in/salaheddine-es-aissi-elismaili/)
-- Portfolio: [My Portfolio](https://SalaheddinE-ai.github.io/salaheddine-portfolio)
-- GitHub: [@SalaheddinE-ai](https://github.com/SalaheddinE-ai)
+- **LinkedIn:** [Salaheddine Es-Aissi Elismaili](https://www.linkedin.com/in/salaheddine-es-aissi-elismaili/)
+- **Portfolio:** [My Portfolio](https://SalaheddinE-ai.github.io/salaheddine-portfolio)
+- **GitHub:** [@SalaheddinE-ai](https://github.com/SalaheddinE-ai)
 
 ---
 
