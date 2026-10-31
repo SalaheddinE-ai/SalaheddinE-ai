@@ -10,11 +10,7 @@ I enjoy designing and building intelligent systems that solve real-world problem
 
 <p align="center">
   <a href="https://salaheddine-ai.github.io/particle-identity/">
-    <img
-      src="https://salaheddine-ai.github.io/particle-identity/portrait.gif"
-      width="650"
-      alt="Salaheddine - Interactive Particle Portrait"
-    />
+    <strong>🚀 Explore My Interactive Particle Portrait</strong>
   </a>
 </p>
 
